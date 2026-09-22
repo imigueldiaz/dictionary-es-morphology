@@ -27,7 +27,7 @@
         "nodehun": "^3.0.2"
     },
     "dependencies": {
-        "adm-zip": "^0.6.0",
+        "adm-zip": "^0.6.1",
         "rmfr": "^2.0.0"
     }
 }
